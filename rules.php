@@ -1,5 +1,5 @@
 <title>Reglas</title>
-<link rel="stylesheet" href="index.css">
+<link rel="stylesheet" href="style.css">
 <?php
   require "header.php";
 ?>
